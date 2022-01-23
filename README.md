@@ -4,6 +4,7 @@
 
 Skidding from these clients without giving any credits
 1. Jello 0.1
-2. Zamorozoka 
+2. Zamorozka 
 3. Rise  
 4. Flux
+
