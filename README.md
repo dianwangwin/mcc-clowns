@@ -9,4 +9,5 @@ Skidding from these clients without giving any credits
 2. Zamorozka 
 3. Rise  
 4. Flux
+5. LiquidSense 
 
