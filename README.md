@@ -1,6 +1,6 @@
 # Minecraft Cheating Community Clowns 🤡
 ### Disclaimer
-This repo is actually meant for ACTUAL clowns and skids, so we will only add ones that have their autism level set to infinity
+Don't take most stuff here too seriously, as this repo is legit meant for entertainment
 
 > Liulihaocai
 
