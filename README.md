@@ -1,6 +1,6 @@
 # Minecraft Cheating Community Clowns 🤡
 ### Disclaimer
-Don't take most stuff here too seriously, as this repo is legit meant for entertainment
+Don't take most stuff here too seriously, as this repo is legit meant for entertainment or another way to tell everyone not to trust **ALL** cheaters and devs
 
 > Liulihaocai
 
