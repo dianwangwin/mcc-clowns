@@ -13,3 +13,8 @@ Skidding from these clients without giving any credits
 4. Flux
 5. LiquidSense 
 
+> winxpqq955
+
+"Developed": [Skidsense Client](https://github.com/DropdownBox/skidsense)
+
+Over 15,000 lines of code were copied from Slowly and Enjoytheban to make his shitty hypixel client.
